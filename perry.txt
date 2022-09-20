@@ -83,6 +83,8 @@ http://127.0.0.1:6878/ace/getstream?id=33369549c635dabdb78b95c478c21fcc9e4ee854
 http://127.0.0.1:6878/ace/getstream?id=f90c6899eb5cadb0050226548246adb56ceade8a
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,MLCampeones 2_720
 http://127.0.0.1:6878/ace/getstream?id=91dce080463a5c6ee931fc5489a75ab54a5cb071
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#VAMOS_HD_M
+http://127.0.0.1:6878/ace/getstream?id=cd4965e740f8e01f47cef1b9dc0517b806cd38b5
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,# Vamos 1080
 http://127.0.0.1:6878/ace/getstream?id=069431a1199eb2545a14c0a724095e57bdc58e9c
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M. Deportes 1080
