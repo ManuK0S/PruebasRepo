@@ -1,3 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
+#EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,Barsa VS baskonia 2030
+http://127.0.0.1:6878/ace/getstream?id=8b2e003ef51657196d2096aa84b9b21ae4bfb660
 #EXTINF:-1 group-title="Otro contenido" tvg-id="GOL HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png" ,Gol Mundial _M_HD
 http://127.0.0.1:6878/ace/getstream?id=08c830da1f7c5c8897d81dd4f80dbc9d0587a94c
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Valencia VS zalguiris 2045
+http://127.0.0.1:6878/ace/getstream?id=3f68c1aa02094e253fd8446c0c307089cecf2a1e
+#EXTINF:-1 group-title="Otro contenido" tvg-id="GOL HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png" ,Gol Mundial HD
+http://127.0.0.1:6878/ace/getstream?id=2f54416685b49e9a8fbe73884712fe018e3e9855
