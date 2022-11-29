@@ -1,3 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 #EXTINF:-1 group-title="Otro contenido" tvg-id="GOL HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png" ,Gol Mundial_M_HD
 http://127.0.0.1:6878/ace/getstream?id=aa0a5fd60f197eae4e3fbedc1206378a0c226590
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Irán VS estados unidos 2000
+http://127.0.0.1:6878/ace/getstream?id=f5ac7190541e98bdf94dffc6e32b4acac8f15d7b
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Gales VS Inglaterra 2000
+http://127.0.0.1:6878/ace/getstream?id=b67faee973e5a969a0adb02d476b78ef8cec4f3e
