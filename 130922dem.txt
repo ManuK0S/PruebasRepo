@@ -1,9 +1,3 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
-#EXTINF:-1 group-title="Otro contenido" tvg-id="GOL HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png" ,Gol Mundial_M_HD
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#VAMOS_M_HD
 http://127.0.0.1:6878/ace/getstream?id=aa0a5fd60f197eae4e3fbedc1206378a0c226590
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Partizan VS valencia 2045
-http://127.0.0.1:6878/ace/getstream?id=8b2e003ef51657196d2096aa84b9b21ae4bfb660
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Baskonia vs Milán 2030
-http://127.0.0.1:6878/ace/getstream?id=3f68c1aa02094e253fd8446c0c307089cecf2a1e
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,España VS japón 2000
-http://127.0.0.1:6878/ace/getstream?id=f5ac7190541e98bdf94dffc6e32b4acac8f15d7b
