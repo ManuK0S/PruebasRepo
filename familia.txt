@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
-#EXTINF:-1 group-title="Otro contenido" tvg-id="GOL HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png" ,Gol Mundial_M_HD
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,Deportes_M_HD
 http://127.0.0.1:6878/ace/getstream?id=557fbf974da97b4b5dca607fc856bb0e4f2a4aad
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Granada VS alavés 
 http://127.0.0.1:6878/ace/getstream?id=7791ba828c0226d8f54cef1611889d29fb333247
