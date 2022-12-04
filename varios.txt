@@ -47,8 +47,6 @@ http://127.0.0.1:6878/ace/getstream?id=4229d640fecf3c0897674241bcf851b67f4310e3
 http://127.0.0.1:6878/ace/getstream?id=a92af592ba7f8f2f087ee34b91662db47705ca52
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,LaLiga_720 
 http://127.0.0.1:6878/ace/getstream?id=d8512e64f34a117afb656f5c66cf8d88023c9570
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,Liga SmartBank_M_HD
-http://127.0.0.1:6878/ace/getstream?id=557fbf974da97b4b5dca607fc856bb0e4f2a4aad
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,LaLiga Smartbank 1080
 http://127.0.0.1:6878/ace/getstream?id=7791ba828c0226d8f54cef1611889d29fb333247
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,Smartbank 1 1080
@@ -131,6 +129,8 @@ http://127.0.0.1:6878/ace/getstream?id=b888712c494a93739d4f275806d7e4feb4c6d2f8
 http://127.0.0.1:6878/ace/getstream?id=d6622ca93e54e493a6910248f8fe1f03aa85bf01
 #EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT1HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EuroSport 1 1080
 http://127.0.0.1:6878/ace/getstream?id=c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
+#EXTINF:-1 group-title="Otro contenido" tvg-id="GOL HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png" ,Gol Mundial_M_HD
+http://127.0.0.1:6878/ace/getstream?id=557fbf974da97b4b5dca607fc856bb0e4f2a4aad
 #EXTINF:-1 group-title="Otro contenido" tvg-id="GOL HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png" ,Gol Mundial
 http://127.0.0.1:6878/ace/getstream?id=7031601915e3d33893cb324c89055b91b9ec5574
 #EXTINF:-1 group-title="Otro contenido" tvg-id="GOL HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png" ,Gol Mundial 2
