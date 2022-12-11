@@ -19,10 +19,10 @@ http://127.0.0.1:6878/ace/getstream?id=f90c6899eb5cadb0050226548246adb56ceade8a
 http://127.0.0.1:6878/ace/getstream?id=91dce080463a5c6ee931fc5489a75ab54a5cb071
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M.Deportes
 http://127.0.0.1:6878/ace/getstream?id=8f75fa54b498ce6889068f56f7a343b72bbcfcc0
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#Vamos
+http://127.0.0.1:6878/ace/getstream?id=f559b9fea692a86e1a1de41cd1aa667e3fa02775
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#vamos_720
 http://127.0.0.1:6878/ace/getstream?id=b888712c494a93739d4f275806d7e4feb4c6d2f8
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,NBA suns VS pelicans
-http://127.0.0.1:6878/ace/getstream?id=f559b9fea692a86e1a1de41cd1aa667e3fa02775
 #EXTINF:-1 group-title="Otro contenido" tvg-id="NAT GEO HD" tvg-logo="https://i.postimg.cc/CMb7QnfM/natgeo.png" ,National Geo
 http://127.0.0.1:6878/ace/getstream?id=d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
 #EXTINF:-1 group-title="Otro contenido" tvg-id="HISTORIA" tvg-logo="https://i.postimg.cc/NGrXN3S1/historia.png" ,Historia
