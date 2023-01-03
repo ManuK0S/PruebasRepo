@@ -35,6 +35,8 @@ http://127.0.0.1:6878/ace/getstream?id=200489d6bfc8295ce59238160564249ff2cca6ab
 http://127.0.0.1:6878/ace/getstream?id=4745f6b6f4ea9be7790dcbdf52f4f3352aa532b0
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,LIGA CAMPEONES 
 http://127.0.0.1:6878/ace/getstream?id=9f41a7d6f803746183fcb7af8fc1873324963424
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" ,Liga campeones 4k
+http://127.0.0.1:6878/ace/getstream?id=d9bd69647d672efa10094037f818068542bf40aa
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 1080 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" ,M.L. Campeones 4 SD
