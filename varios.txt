@@ -55,6 +55,8 @@ http://127.0.0.1:6878/ace/getstream?id=dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
 http://127.0.0.1:6878/ace/getstream?id=2d584c7335ff44f97c3cf64947892ef30fde715c
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M.L. Campeones 3 720
 http://127.0.0.1:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,ESPANYOL VS CELTA DE VIGO 1080
+http://127.0.0.1:6878/ace/getstream?id=71929979365d304e85ea9ed3306cf0ca9177a820
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,EL GATO CON BOTAS
 http://127.0.0.1:6878/ace/getstream?id=d9230754ad285f95938d1f39e6a907a083b88d3a
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,NBA sacramento VS Utah 0300
