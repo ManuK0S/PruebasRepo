@@ -29,12 +29,6 @@ http://127.0.0.1:6878/ace/getstream?id=37d42d2b5d2278e6bb5810329a5f220867b3cf0c
 http://127.0.0.1:6878/ace/getstream?id=91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
 #EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,Liga bar 1080
 http://127.0.0.1:6878/ace/getstream?id=ed2a15319345fb0739590faf88d8be4cb1663bf3
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" ,LIGA CAMPEONES 4
-http://127.0.0.1:6878/ace/getstream?id=200489d6bfc8295ce59238160564249ff2cca6ab
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" ,LIGA CAMPEONES 4
-http://127.0.0.1:6878/ace/getstream?id=4745f6b6f4ea9be7790dcbdf52f4f3352aa532b0
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,LIGA CAMPEONES 
-http://127.0.0.1:6878/ace/getstream?id=9f41a7d6f803746183fcb7af8fc1873324963424
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" ,Liga campeones 4k
 http://127.0.0.1:6878/ace/getstream?id=d9bd69647d672efa10094037f818068542bf40aa
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 1080 MultiAudio
@@ -55,6 +49,12 @@ http://127.0.0.1:6878/ace/getstream?id=dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
 http://127.0.0.1:6878/ace/getstream?id=2d584c7335ff44f97c3cf64947892ef30fde715c
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M.L. Campeones 3 720
 http://127.0.0.1:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M.Deportes M_
+http://127.0.0.1:6878/ace/getstream?id=200489d6bfc8295ce59238160564249ff2cca6ab
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M.Deportes M_HD
+http://127.0.0.1:6878/ace/getstream?id=4745f6b6f4ea9be7790dcbdf52f4f3352aa532b0
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M.Deportes M_HD_
+http://127.0.0.1:6878/ace/getstream?id=9f41a7d6f803746183fcb7af8fc1873324963424
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,ESPANYOL VS CELTA DE VIGO 1080
 http://127.0.0.1:6878/ace/getstream?id=71929979365d304e85ea9ed3306cf0ca9177a820
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,EL GATO CON BOTAS
