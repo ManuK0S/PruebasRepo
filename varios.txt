@@ -109,3 +109,5 @@ http://127.0.0.1:6878/ace/getstream?id=ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c
 http://127.0.0.1:6878/ace/getstream?id=6636a5c1055b5913ddcd0e87a5523f7d935350af
 #EXTINF:-1 group-title="Otro contenido" tvg-id="LA 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,La1 1080
 http://127.0.0.1:6878/ace/getstream?id=fd0a3f8874ba9bb0516b1e2b978827fdd6661842
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Gato con Botas
+http://127.0.0.1:6878/ace/getstream?id=665a57825f6ce523084cf17d7d67b08c3ce3dd15
